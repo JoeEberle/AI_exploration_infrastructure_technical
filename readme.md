@@ -39,11 +39,8 @@ To get started with the **Ai Exploration Infrastructure Technical** solution rep
  ![additional_image](AI_exploration_infrastructure_technical.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
