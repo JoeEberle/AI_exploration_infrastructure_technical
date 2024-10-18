@@ -4,20 +4,7 @@
 
 ## A sophisticated AI infrastructure that uses AI agents and LLMs to research an query population health data.
 
-    
-# Table of Contents
-
-- [Solution Overview](#Solution-Overview)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Notebook Features](#notebook-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
-![Image image_filename](code.png)
+    ![Image image_filename](code.png)
 Welcome to the solution **Ai Exploration Infrastructure Technical** - an example for your projects
 
 A sophisticated AI infrastructure that uses AI agents and LLMs to research an query population health data.
@@ -32,6 +19,15 @@ To get started with the **Ai Exploration Infrastructure Technical** solution rep
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     
+## Solution Features
+
+- Easy to understand and use  
+- Easily Configurable 
+- Quickly start your project with pre-built templates
+- Its Fast and Automated
+- Saves You Time 
+
+
 ## Code Features
 
 These features are designed to provide everything you need for **Ai Exploration Infrastructure Technical** 
