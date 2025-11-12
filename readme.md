@@ -4,21 +4,11 @@
 
 ## A sophisticated AI infrastructure that uses AI agents and LLMs to research an query population health data.
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Ai Exploration Infrastructure Technical** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Ai Exploration Infrastructure Technical** 
 
 A sophisticated AI infrastructure that uses AI agents and LLMs to research an query population health data.
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
